@@ -1,2 +1,11 @@
 # hello-world
-Just another repository
+
+
+Hi Humans!
+
+Jacob here.
+I need some lunch soon! 
+brb getting some lunch
+
+Back! Got some cereal
+
